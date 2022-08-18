@@ -17,7 +17,8 @@
 
 ## 📌 프로젝트 소개
 
-<img width="100%" src="https://imgur.com/Dvko1nl.png">
+<img width="100%" src="https://imgur.com/byVHuXF.png">
+<img width="100%" src="https://imgur.com/IPxNsfe.png">
 <p></p>
 
 <div align="center">
@@ -34,9 +35,9 @@ ED는 별도의 설치 과정 없이 exe일 파일 하나로 간단하게 사용
 
 
 ## 👨‍🍳 팀 소개
-| [김용민](https://github.com/parkbohyun) |[bo._.h](https://github.com/parkbohyun) | [이경호](https://github.com/parkbohyun) |
+| [김용민](https://blog.naver.com/dydals583) |[bo._.h](https://github.com/parkbohyun) | [이경호](https://anhwa5.tistory.com/) |
 | :--:| :--:|  :--:  |
-| ![](https://i.imgur.com/zmCKLZz.jpg) | ![](https://i.imgur.com/L6YXjBe.jpg)| ![](https://i.imgur.com/r0KdRs2.jpg) |
+| ![](https://imgur.com/iVWIOcU.png) | ![](https://imgur.com/MAjeB30.jpg)| ![](https://imgur.com/iLkFRZn.jpg) |
 | **김용민 🧇** | **박보현 🥐** | **이경호 🌭** |
 |**Windows 🌐**|**Windows 🌐**|**Windows 🌐**|
 
@@ -68,8 +69,8 @@ ED는 별도의 설치 과정 없이 exe일 파일 하나로 간단하게 사용
 
 ## 🎨 Color Scheme
 
-|#557aeb|#744de6|#FADD68|
-| :--: | :--: | :--: |
-|![](https://i.imgur.com/F0kjHIW.jpg)|![](https://i.imgur.com/VJ4ezUK.jpg)|![](https://i.imgur.com/AkApNNT.jpg)|
+|#557aeb|#6798FD|#744de6|#f08080|
+| :--: | :--: | :--: | :--: |
+|![](https://imgur.com/2mDjAyx.png)|![](https://imgur.com/oAP4XOJ.png)|![](https://imgur.com/IViPccs.png)|![](https://imgur.com/gntcH2s.png)|
 
 </br>
