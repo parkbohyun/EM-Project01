@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="610.0" prefWidth="452.0" style="-fx-background-color: #f08080;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.CalController">
+   <children>
+      <ImageView fitHeight="728.0" fitWidth="494.0" layoutX="-20.0" opacity="0.4" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../Downloads/sungillogo.gif" />
+         </image>
+      </ImageView>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="89.0" layoutY="40.0" text="CALCULATOR" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font name="Calibri Bold Italic" size="50.0" />
+         </font>
+      </Label>
+      <Button fx:id="btnx" layoutX="37.0" layoutY="245.0" mnemonicParsing="false" prefHeight="50.0" prefWidth="80.0" style="-fx-background-color: #FFFFFF;" text="x">
+         <font>
+            <Font name="Arial" size="25.0" />
+         </font>
+      </Button>
+      <Button fx:id="btnDivide" layoutX="130.0" layoutY="245.0" mnemonicParsing="false" prefHeight="50.0" prefWidth="80.0" style="-fx-background-color: #FFFFFF;" text="/">
+         <font>
+            <Font name="Arial" size="25.0" />
+         </font>
+      </Button>
+      <Button fx:id="btnCencle" layoutX="225.0" layoutY="245.0" mnemonicParsing="false" prefHeight="50.0" prefWidth="80.0" style="-fx-background-color: #FFFFFF;" text="c">
+         <font>
+            <Font name="Arial" size="25.0" />
+         </font>
+      </Button>
+      <Button fx:id="btnDelete" layoutX="318.0" layoutY="245.0" mnemonicParsing="false" prefHeight="50.0" prefWidth="96.0" style="-fx-background-color: #FFFFFF;" text="◀">
+         <font>
+            <Font name="Arial" size="25.0" />
+         </font>
+      </Button>
+      <Button fx:id="btn7" layoutX="37.0" layoutY="308.0" mnemonicParsing="false" prefHeight="58.0" prefWidth="80.0" style="-fx-background-color: #FFFFFF;" text="7">
+         <font>
+            <Font name="Arial" size="25.0" />
+         </font>
+      </Button>
+      <Button fx:id="btn8" layoutX="130.0" layoutY="308.0" mnemonicParsing="false" prefHeight="58.0" prefWidth="80.0" style="-fx-background-color: #FFFFFF;" text="8">
+         <font>
+            <Font name="Arial" size="25.0" />
+         </font>
+      </Button>
+      <Button fx:id="btn9" layoutX="225.0" layoutY="308.0" mnemonicParsing="false" prefHeight="58.0" prefWidth="80.0" style="-fx-background-color: #FFFFFF;" text="9">
+         <font>
+            <Font name="Arial" size="25.0" />
+         </font>
+      </Button>
+      <Button fx:id="btnPlus" layoutX="318.0" layoutY="308.0" mnemonicParsing="false" prefHeight="93.0" prefWidth="96.0" style="-fx-background-color: #FFFFFF;" text="+">
+         <font>
+            <Font name="Arial" size="31.0" />
+         </font>
+      </Button>
+      <Button fx:id="btn4" layoutX="37.0" layoutY="377.0" mnemonicParsing="false" prefHeight="58.0" prefWidth="80.0" style="-fx-background-color: #FFFFFF;" text="4">
+         <font>
+            <Font name="Arial" size="25.0" />
+         </font>
+      </Button>
+      <Button fx:id="btn5" layoutX="130.0" layoutY="377.0" mnemonicParsing="false" prefHeight="58.0" prefWidth="80.0" style="-fx-background-color: #FFFFFF;" text="5">
+         <font>
+            <Font name="Arial" size="25.0" />
+         </font>
+      </Button>
+      <Button fx:id="btn6" layoutX="225.0" layoutY="377.0" mnemonicParsing="false" prefHeight="58.0" prefWidth="80.0" style="-fx-background-color: #FFFFFF;" text="6">
+         <font>
+            <Font name="Arial" size="25.0" />
+         </font>
+      </Button>
+      <Button fx:id="btn1" layoutX="37.0" layoutY="445.0" mnemonicParsing="false" prefHeight="58.0" prefWidth="80.0" style="-fx-background-color: #FFFFFF;" text="1">
+         <font>
+            <Font name="Arial" size="25.0" />
+         </font>
+      </Button>
+      <Button fx:id="btn2" layoutX="130.0" layoutY="445.0" mnemonicParsing="false" prefHeight="58.0" prefWidth="80.0" style="-fx-background-color: #FFFFFF;" text="2">
+         <font>
+            <Font name="Arial" size="25.0" />
+         </font>
+      </Button>
+      <Button fx:id="btn3" layoutX="225.0" layoutY="445.0" mnemonicParsing="false" prefHeight="58.0" prefWidth="80.0" style="-fx-background-color: #FFFFFF;" text="3">
+         <font>
+            <Font name="Arial" size="25.0" />
+         </font>
+      </Button>
+      <Button fx:id="btnMinus" layoutX="318.0" layoutY="410.0" mnemonicParsing="false" prefHeight="93.0" prefWidth="96.0" style="-fx-background-color: #FFFFFF;" text="-">
+         <font>
+            <Font name="Arial" size="31.0" />
+         </font>
+      </Button>
+      <Button fx:id="btn0" layoutX="130.0" layoutY="514.0" mnemonicParsing="false" prefHeight="58.0" prefWidth="80.0" style="-fx-background-color: #FFFFFF;" text="0">
+         <font>
+            <Font name="Arial" size="25.0" />
+         </font>
+      </Button>
+      <Button fx:id="btnPoint" layoutX="225.0" layoutY="514.0" mnemonicParsing="false" prefHeight="58.0" prefWidth="80.0" style="-fx-background-color: #FFFFFF;" text=".">
+         <font>
+            <Font name="Arial" size="25.0" />
+         </font>
+      </Button>
+      <Button fx:id="btnResult" layoutX="318.0" layoutY="514.0" mnemonicParsing="false" prefHeight="58.0" prefWidth="96.0" style="-fx-background-color: #FFFFFF;" text="=">
+         <font>
+            <Font name="Arial" size="31.0" />
+         </font>
+      </Button>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="69.0" layoutX="39.0" layoutY="109.0" stroke="BLACK" strokeLineCap="ROUND" strokeType="INSIDE" strokeWidth="0.0" width="377.0" />
+      <Label fx:id="result" alignment="CENTER_RIGHT" layoutX="48.0" layoutY="122.0" prefHeight="39.0" prefWidth="355.0" text="0" textAlignment="RIGHT">
+         <font>
+            <Font size="38.0" />
+         </font>
+      </Label>
+      <Button layoutX="37.0" layoutY="514.0" mnemonicParsing="false" onAction="#switchToMain" prefHeight="58.0" prefWidth="80.0" style="-fx-background-color: #FFFFFF;" text="뒤로">
+         <font>
+            <Font name="Arial Bold Italic" size="20.0" />
+         </font>
+      </Button>
+      <Button fx:id="btnScient" layoutX="37.0" layoutY="185.0" mnemonicParsing="false" onAction="#switchTocal" prefHeight="50.0" prefWidth="377.0" style="-fx-background-color: #FFFFFF;" text="공학용 계산기">
+         <font>
+            <Font name="Arial" size="25.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
